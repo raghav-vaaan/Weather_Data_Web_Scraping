@@ -1,0 +1,42 @@
+25_05_2022_11:28:31:647-numexpr.utils-INFO-NumExpr defaulting to 4 threads.
+25_05_2022_11:28:38:47-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): 192.168.0.84:6076
+25_05_2022_11:28:47:728-urllib3.connectionpool-DEBUG-http://192.168.0.84:6076 "GET /VaaaN/TTE-Events/GetAllDevices HTTP/1.1" 200 4336
+25_05_2022_11:32:34:505-numexpr.utils-INFO-NumExpr defaulting to 4 threads.
+25_05_2022_11:32:34:864-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): 192.168.0.84:6076
+25_05_2022_11:32:34:871-urllib3.connectionpool-DEBUG-http://192.168.0.84:6076 "GET /VaaaN/TTE-Events/GetAllDevices HTTP/1.1" 200 4336
+25_05_2022_11:32:44:811-numexpr.utils-INFO-NumExpr defaulting to 4 threads.
+25_05_2022_11:32:45:204-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): 192.168.0.84:6076
+25_05_2022_11:32:45:209-urllib3.connectionpool-DEBUG-http://192.168.0.84:6076 "GET /VaaaN/TTE-Events/GetAllDevices HTTP/1.1" 200 4336
+25_05_2022_11:35:44:463-numexpr.utils-INFO-NumExpr defaulting to 4 threads.
+25_05_2022_11:35:44:818-urllib3.connectionpool-DEBUG-Starting new HTTP connection (1): 192.168.0.84:6076
+25_05_2022_11:35:44:824-urllib3.connectionpool-DEBUG-http://192.168.0.84:6076 "GET /VaaaN/TTE-Events/GetAllDevices HTTP/1.1" 200 4336
+25_05_2022_11:35:54:865-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:35:56:605-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.92273&lng=79.14159&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474954&end=1653581154 HTTP/1.1" 200 1596
+25_05_2022_11:35:56:694-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:35:58:391-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.979375&lng=79.046329&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474954&end=1653581154 HTTP/1.1" 200 1599
+25_05_2022_11:35:58:428-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:35:59:408-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=27.0351367&lng=78.3780009&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474954&end=1653581154 HTTP/1.1" 200 1593
+25_05_2022_11:35:59:456-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:00:384-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.93685&lng=80.1459&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474954&end=1653581154 HTTP/1.1" 200 1619
+25_05_2022_11:36:00:423-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:01:302-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.85775&lng=80.60068&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474954&end=1653581154 HTTP/1.1" 200 1662
+25_05_2022_11:36:11:341-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:12:273-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.92273&lng=79.14159&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474971&end=1653581171 HTTP/1.1" 200 1597
+25_05_2022_11:36:12:312-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:13:282-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.979375&lng=79.046329&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474971&end=1653581171 HTTP/1.1" 200 1599
+25_05_2022_11:36:13:326-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:14:444-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=27.0351367&lng=78.3780009&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474971&end=1653581171 HTTP/1.1" 200 1593
+25_05_2022_11:36:14:484-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:15:806-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.93685&lng=80.1459&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474971&end=1653581171 HTTP/1.1" 200 1619
+25_05_2022_11:36:15:842-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:17:565-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.85775&lng=80.60068&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474971&end=1653581171 HTTP/1.1" 200 1663
+25_05_2022_11:36:27:617-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:28:558-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.92273&lng=79.14159&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474987&end=1653581187 HTTP/1.1" 200 1597
+25_05_2022_11:36:28:599-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:29:530-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.979375&lng=79.046329&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474987&end=1653581187 HTTP/1.1" 200 1598
+25_05_2022_11:36:29:568-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:30:484-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=27.0351367&lng=78.3780009&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474987&end=1653581187 HTTP/1.1" 200 1593
+25_05_2022_11:36:30:522-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:31:469-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.93685&lng=80.1459&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474987&end=1653581187 HTTP/1.1" 200 1619
+25_05_2022_11:36:31:506-urllib3.connectionpool-DEBUG-Starting new HTTPS connection (1): api.stormglass.io:443
+25_05_2022_11:36:32:525-urllib3.connectionpool-DEBUG-https://api.stormglass.io:443 "GET /v2/weather/point?lat=26.85775&lng=80.60068&params=windSpeed%2CwindDirection%2Cvisibility%2Chumidity%2Cpressure%2CairTemperature%2CcloudCover&start=1653474987&end=1653581187 HTTP/1.1" 200 1662
