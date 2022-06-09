@@ -16,3 +16,6 @@ This folder contain :
    
    
    WeatherXML consist of whole detail of receive data and where to send it . 
+
+
+   It consist API which consist original data 
