@@ -15,4 +15,4 @@ This folder contain :
    There consist the weather Document which consists of the whole detail of project 
    
    
-   WeatherXML consist of whole detail of project 
+   WeatherXML consist of whole detail of receive data and where to send it . 
