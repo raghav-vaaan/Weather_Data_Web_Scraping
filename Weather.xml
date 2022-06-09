@@ -1,0 +1,12 @@
+<data>
+   <items>
+      <item name1="USERNAME">VAAAN</item>
+	  <item name3="PASSWORD">vaarid789</item>
+	  <item name2="IP">localhost</item>
+	  <item name4="SERVICE">VAAAN</item>
+	  <item name5="SENDURL">http://192.168.0.84:6076/VaaaN/TTE-Events/WeatherStatus</item>
+	  <item name6="MASTERRECEIVEURL">http://192.168.0.84:6076/VaaaN/TTE-Events/GetAllDevices</item>
+	  <item name7="MASTERRECEIVEURL">030bc130-91f4-11eb-a242-0242ac130002-030bc1a8-91f4-11eb-a242-0242ac130002</item>
+	  <item name8="PREDICTIONSENDURL">http://192.168.0.84:6076/VaaaN/TTE-Events/PredicitedWeatherStatus</item>
+   </items>
+</data>
